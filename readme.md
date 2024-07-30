@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I´m currently learning
+⚡ Hi! I´m Lautaro. I'm a Frontend developer in CSS, JavaScript, etc. I have +3 years of experience in programming.
 
 
 ## 🌐 Socials:
