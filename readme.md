@@ -1,4 +1,4 @@
-# 🇦🇷 About Me:
+# 🌎 About Me:
 ⚡ Hi! I’m Lautaro. I’m a Frontend developer with a passion for coding since 2019. I find it easy to learn new technologies and I’m excited to work on new projects to gain more experience.
 
 ## 📝 What I'm Doing
