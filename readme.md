@@ -1,13 +1,12 @@
 # 🪐 About Me:
 ⚡ Hi! I’m Lautaro. I’m a Frontend developer with a passion for coding since 2019. I find it easy to learn new technologies and I’m excited to work on new projects to gain more experience.
 
-## What I'm Doing
+## 📝 What I'm Doing
 
 - 🌱 Learning JavaScript & more
 - 📫 How to contact me: laucasal27@gmail.com
 
-# 💻 Tech Stack:
-## Languages and Tools
+## 💻 Languages and Tools
 
 <p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,ps,discord,github,html,css,cpp,js,php,mysql,postgres"> </a> </p>
 
@@ -20,5 +19,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Lautt27_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Laucasal27) 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lautt27&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
