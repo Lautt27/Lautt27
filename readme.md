@@ -6,7 +6,7 @@
 - 🌱 Learning JavaScript & more
 - 📫 How to contact me: laucasal27@gmail.com
 
-## 💻 Languages and Tools
+## 💻 Languages and Tools:
 
 <p align="left"> <a href="https://github.com/lautt27"><img src="https://skillicons.dev/icons?i=windows,vscode,ps,discord,github,html,css,cpp,js,php,mysql,postgres"> </a> </p>
 
