@@ -6,7 +6,6 @@
 💡 Always looking for new opportunities to collaborate and grow.  
 
 ## 💻 Languages & Tools  
-**Web Development**  
 <p align="left">  
   <a href="https://github.com/lautt27">
     <img src="https://skillicons.dev/icons?i=css,html,php,js,cpp,mysql,postgres,bootstrap,wordpress,vscode">  
