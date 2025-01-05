@@ -21,6 +21,6 @@ Other Tools
 📧 Feel free to reach out to me at: laucasal27@gmail.com
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Laucasal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Laucasal27) <br>
+<p align="left"> <a href="https://github.com/lautt27"><img src="https://skillicons.dev/icons?i=instagram,linkedin"> </a> </p>
 ---
 [![](https://visitcount.itsvg.in/api?id=Lautt27&icon=0&color=0)](https://visitcount.itsvg.in)
