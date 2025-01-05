@@ -18,17 +18,3 @@
 
 ## 📃 Portfolio  
 🔗 Explore my skills and contact me: [Portfolio](https://lautt27.github.io/Portfolio/)
-
-## 📬 Contact  
-📧 Reach me at: laucasal27@gmail.com  
-
-## 🌐 Socials  
-<p align="left">
-  <a href="https://instagram.com/Laucasal_">
-    <img src="https://skillicons.dev/icons?i=instagram">
-  </a>
-  <a href="https://linkedin.com/in/Laucasal27">
-    <img src="https://skillicons.dev/icons?i=linkedin">
-  </a>
-</p>
-
