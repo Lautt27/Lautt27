@@ -3,12 +3,15 @@
 
 ## 📝 What I'm Working On
 🌱 Currently learning WordPress, diving deeper into JavaScript and exploring new tools to enhance my workflow.
+<br>
 💡 Always on the lookout for new opportunities to collaborate and grow.
 
 ## 💻 Languages & Tools
 Web Development
 
 <p align="left"> <a href="https://github.com/lautt27"><img src="https://skillicons.dev/icons?i=css,html,php,js,cpp,mysql,postgres,bootstrap,wordpress,vscode"> </a> </p>
+<br> 
+
 Other Tools
 
 <p align="left"> <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"> </p>
